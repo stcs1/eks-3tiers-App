@@ -5,3 +5,6 @@ crash.log
 .terraform.lock.hcl
 *.tfvars
 *.tfvars.json
+*.pem
+*.key
+*.crt
