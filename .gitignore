@@ -8,3 +8,6 @@ crash.log
 *.pem
 *.key
 *.crt
+kubectl.exe
+kubectl
+terraform.exe
